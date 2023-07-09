@@ -1,0 +1,13 @@
+Flask
+pybase64
+jsonpickle
+Pillow
+numpy
+opencv-python
+fastapi
+tflite
+tensorflow
+tflite-runtime
+detect
+tensorflow_hub
+matplotlib
