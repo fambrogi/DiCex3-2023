@@ -1,5 +1,0 @@
-images/in//test2.jpg_5.769572496414185
-images/in//test1.jpg_0.13123059272766113
-images/in//test3.jpg_0.0718848705291748
-images/in//test5.jpg_0.08436107635498047
-images/in//test4.jpg_0.09615421295166016
