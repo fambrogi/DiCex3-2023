@@ -19,7 +19,7 @@ RUN ls
 
 ENV FLASK_APP=app.py
 
-EXPOSE 5000
+#EXPOSE 5000
 
 ENTRYPOINT [ "python3" ]
 CMD ["app.py"]
